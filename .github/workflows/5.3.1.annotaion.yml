@@ -1,4 +1,4 @@
-name: Annotation
+name: 5.3.1. Annotation
 on:
   workflow_dispatch:
 jobs:
