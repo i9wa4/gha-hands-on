@@ -1,4 +1,4 @@
-name: Linting GitHub Actions
+name: 4.5.2. Linting GitHub Actions
 run-name: Linting GitHub Actions Run by @${{ github.actor }}
 on:
   workflow_dispatch:

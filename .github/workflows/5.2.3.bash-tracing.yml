@@ -1,4 +1,4 @@
-name: Bash tracing
+name: 5.2.3. Bash tracing
 on:
   workflow_dispatch:
 jobs:
