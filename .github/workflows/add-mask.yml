@@ -7,5 +7,5 @@ jobs:
     env:
       PASSWORD: SuperSecretValue
     steps:
-      - run: echo "::add-masl::${PASSWORD}"
+      - run: echo "::add-mask::${PASSWORD}"
       - run: echo "${PASSWORD}"
