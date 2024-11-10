@@ -1,4 +1,4 @@
-name: 5.2.5. Add mask
+name: 5.4. Add mask
 on:
   workflow_dispatch:
 jobs:

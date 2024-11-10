@@ -1,4 +1,4 @@
-name: 5.5.2. Sequential jobs
+name: 5.8. Sequential jobs
 on:
   workflow_dispatch:
 jobs:

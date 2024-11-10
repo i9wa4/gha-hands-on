@@ -1,4 +1,4 @@
-name: 5.2.2. Debug log
+name: 5.1. Debug log
 on:
   workflow_dispatch:
 jobs:

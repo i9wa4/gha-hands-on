@@ -1,4 +1,4 @@
-name: 5.3.2. Job summaries
+name: 5.6. Job summaries
 on:
   workflow_dispatch:
 jobs:

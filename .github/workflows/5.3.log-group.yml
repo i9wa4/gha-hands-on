@@ -1,4 +1,4 @@
-name: 5.2.4. Log group
+name: 5.3. Log group
 on:
   workflow_dispatch:
 jobs:
