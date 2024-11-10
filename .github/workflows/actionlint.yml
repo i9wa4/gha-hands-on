@@ -10,8 +10,8 @@ defaults:
   run:
     shell: bash
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref }}  # "workflow-branch" (= 同一PR) の多重起動を抑制する
+  cancel-in-progress: true  # 既存の実行をキャンセルして新しい実行を開始させる
 jobs:
   lint:
     runs-on: ubuntu-latest
