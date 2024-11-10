@@ -1,0 +1,11 @@
+name: Add mask
+on:
+  workflow_dispatch:
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    env:
+      PASSWORD: SuperSecretValue
+    steps:
+      - run: echo "::add-masl::${PASSWORD}"
+      - run: echo "${PASSWORD}"
