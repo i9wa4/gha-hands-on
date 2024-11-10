@@ -1,4 +1,4 @@
-name: Change shell
+name: 4.7. Change shell
 on:
   workflow_dispatch:
 jobs:
