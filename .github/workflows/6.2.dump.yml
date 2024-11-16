@@ -1,6 +1,6 @@
 name: Dump
 on: workflow_dispatch
-job:
+jobs:
   debug:
     runs-on: ubuntu-latest
     steps:
