@@ -1,4 +1,4 @@
-# gha-handson
+# gha-hands-on
 
 下記書籍を参考にした GitHub Actions の練習リポジトリです。
 
